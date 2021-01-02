@@ -9,8 +9,6 @@ public class TestRunner implements CommandLineRunner {
 	public void run(String... args) throws Exception {
 		
 		System.out.println("WELCOME TO TEST APP ");
-		
-		
 	}
 
 }
